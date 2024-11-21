@@ -19,7 +19,7 @@ Die erste Aufgabe besteht darin, alle Primzahlen in einem vom Benutzer definiert
 ---
 
 ### 2. Visualisierung einer logarithmischen Kurve
-Die zweite Aufgabe visualisiert eine logarithmische Kurve, die auf einer maximalen Zahl und einem Multiplikator basiert, die vom Benutzer eingegeben werden. Die Kurve beginnt oben links, macht einen eingezogenen Buckel und endet rechts unten.
+Die zweite Aufgabe visualisiert eine logarithmische Kurve, die auf einer maximalen Zahl und einem Multiplikator basiert, die vom Benutzer eingegeben werden. Die Kurve beginnt oben rechts, macht einen eingezogenen Buckel und endet links unten.
 
 #### Screenshot
 - ![Logarithmische Kurve](https://github.com/dino-2602/Primzahlenberechnung/blob/main/Primzahlen_%26_Logarithmus/screenshots/Logarithmische%20Kurve%20berechnen.png)
