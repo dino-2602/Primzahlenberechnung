@@ -14,7 +14,7 @@ Dieses Projekt enthält eine Übung zu PHP und umfasst zwei Aufgaben:
 Die erste Aufgabe besteht darin, alle Primzahlen in einem vom Benutzer definierten Bereich zu berechnen und auszugeben. Der Benutzer gibt die obere Grenze ein, und das Programm ermittelt alle Primzahlen von 1 bis zu dieser Grenze.
 
 #### Screenshot
-- ![Primzahlen](https://github.com/dino-2602/Primzahlenberechnung/blob/main/screenshots/primzahlen.png)
+- ![Primzahlen](https://github.com/dino-2602/Primzahlenberechnung/blob/main/Primzahlen_%26_Logarithmus/screenshots/Primzahlenberechnung.png)
 
 ---
 
@@ -22,7 +22,7 @@ Die erste Aufgabe besteht darin, alle Primzahlen in einem vom Benutzer definiert
 Die zweite Aufgabe visualisiert eine logarithmische Kurve, die auf einer maximalen Zahl und einem Multiplikator basiert, die vom Benutzer eingegeben werden. Die Kurve beginnt oben links, macht einen eingezogenen Buckel und endet rechts unten.
 
 #### Screenshot
-- ![Logarithmische Kurve](https://github.com/dino-2602/Primzahlenberechnung/blob/main/screenshots/logarithmische_kurve.png)
+- ![Logarithmische Kurve](https://github.com/dino-2602/Primzahlenberechnung/blob/main/Primzahlen_%26_Logarithmus/screenshots/Logarithmische%20Kurve%20berechnen.png)
 
 ---
 
