@@ -36,6 +36,8 @@ Die zweite Aufgabe visualisiert eine logarithmische Kurve, die auf einer maximal
 ## Verwendung
 Technologie im Einsatz:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
