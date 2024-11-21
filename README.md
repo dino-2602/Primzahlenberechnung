@@ -26,6 +26,13 @@ Die zweite Aufgabe visualisiert eine logarithmische Kurve, die auf einer maximal
 
 ---
 
+## Hinweise
+- **Validierung von Benutzereingaben**: Es sollte überprüft werden, ob die Eingaben im Formular korrekt sind (z. B. positive Zahlen).
+- **Server läuft korrekt**: Der Apache-Webserver muss gestartet sein, um die PHP-Dateien auszuführen.
+- **Korrekte Platzierung der Dateien**: Alle Dateien sollten im Ordner `Primzahlenberechnung` gespeichert sein, um die Aufrufe zu erleichtern.
+  
+  ---
+  
 ## Verwendung
 Technologie im Einsatz:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
